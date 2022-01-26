@@ -4,6 +4,8 @@
 
 ## Phase H: Mobile Solutions Architecture
 
+**Mobile Strategy &amp; Design**
+
 - [Mobile Micro-Moments](https://developer.salesforce.com/blogs/developer-relations/2013/07/new-salesforce-mobile-services-for-mobile-micro-moments)
 
 - [Salesforce Mobile App](https://help.salesforce.com/s/articleView?id=sf.salesforce_app.htm&type=5)
@@ -18,7 +20,7 @@
 
 - [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)
 
-**Mobile Application Security**
+**Mobile Security**
 
 - [Link](https://help.salesforce.com/s/articleView?id=sf.mobile_security.htm&type=5)
 
