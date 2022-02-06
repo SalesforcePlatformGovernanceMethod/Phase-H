@@ -2,9 +2,9 @@
   <img src="https://github.com/SalesforcePlatformGovernanceMethod/Phase-H/blob/8e5765b7d60c567fd4546e3aefe668c23da30fc3/images/phase-h.png" title="Phase H">
 </p>
 
-## Phase H: Mobile Solutions Architecture
+# Phase H: Mobile Solutions Architecture
 
-**Mobile Strategy &amp; Design**
+## **Mobile Strategy &amp; Design**
 
 - [Mobile Micro-Moments](https://developer.salesforce.com/blogs/developer-relations/2013/07/new-salesforce-mobile-services-for-mobile-micro-moments)
 
@@ -20,11 +20,9 @@
 
 - [Mobile Publisher](https://help.salesforce.com/s/articleView?id=sf.s1_branded_apps.htm&type=5)
 
-**Mobile Security**
+## **Mobile Security**
 
-- [Link](https://help.salesforce.com/s/articleView?id=sf.mobile_security.htm&type=5)
-
-- [Link](https://resources.docs.salesforce.com/sfdc/pdf/salesforce1_mobile_security.pdf)
+- [Mobile Application Security](https://help.salesforce.com/s/articleView?id=sf.mobile_security.htm&type=5)
 
 - [MDM](https://help.salesforce.com/s/articleView?id=sf.mobile_security_mdm.htm&type=5)
 
